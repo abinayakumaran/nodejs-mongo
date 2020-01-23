@@ -1,5 +1,3 @@
-### butler-app
-
 ## Requirements
 
 * Node(10.x or greater)
@@ -7,7 +5,6 @@
   
 ## Setup and Run
 
-* Unzip the butlers.zip
 * Open the root folder in terminal (cd butlers)
 * npm install
 * npm start
